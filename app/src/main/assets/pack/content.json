@@ -1,0 +1,309 @@
+﻿{
+  "content": [
+    {
+      "type": "skin",
+      "imgname": "0.jpg",
+      "filename": "luckyblock.png"
+    },
+    {
+      "type": "mod",
+      "imgname": "1.jpg",
+      "filename": {
+        "0": "lb-bp.mcpack",
+        "1": "lb-rp.mcpack"
+      }
+    },
+    {
+      "type": "mod",
+      "imgname": "2.jpg",
+      "filename": {
+        "0": "lb1-bp.mcpack",
+        "1": "lb1-rp.mcpack"
+      }
+    },
+    {
+      "type": "map",
+      "imgname": "3.jpg",
+      "filename": "lbr.zip"
+    },
+    {
+      "type": "mod",
+      "imgname": "4.jpg",
+      "filename": {
+        "0": "vvladu-bp.mcpack",
+        "1": "vvladu-rp.mcpack"
+      }
+    },
+    {
+      "type": "map",
+      "imgname": "5.jpg",
+      "filename": "LuckyBlockRace.mcworld"
+    },
+    {
+      "type": "mod",
+      "imgname": "6.jpg",
+      "filename": {
+        "0": "hardcore-bp.mcpack",
+        "1": "hardcore-rp.mcpack"
+      }
+    },
+    {
+      "type": "map",
+      "imgname": "7.jpg",
+      "filename": "lucky121.mcworld"
+    }
+  ],
+  "string": [
+    {
+      "imgname": "0.jpg",
+      "name": {
+        "en": "Lucky block skin",
+        "ru": "Скин лаки блок",
+        "pt": "Lucky block skin",
+        "es": "Lucky block skin",
+        "pl": "Lucky block skin",
+        "de": "Lucky block skin",
+        "it": "Lucky block skin",
+        "fr": "Lucky block skin"
+      },
+      "desc": {
+        "en": "Changes default Steve skin to bright yellow lucky block skin ",
+        "ru": "Меняет скин по умолчанию (Стив) на крутой ярко-желтый скин Лаки Блок",
+        "pt": "Muda a pele de Steve padrao para uma pele de bloco amarelo lucky brilhante",
+        "es": "Cambia la piel de Steve por defecto a la piel amarilla brillante del bloque de la suerte",
+        "pl": "Zmienia domyslna skore Steve na jasnozolty szczesliwy blok skory",
+        "de": "Andert die Standard-Steve-Haut auf helle gelbe Glucksblockhaut",
+        "it": "Modifica la pelle predefinita di Steve alla pelle fortemente bloccata giallo brillante",
+        "fr": "Modifie la peau de Steve par defaut jusqu'a la peau de bloc jaune chanceux"
+      }
+    },
+    {
+      "imgname": "1.jpg",
+      "name": {
+        "en": "1 Block mod",
+        "ru": "Лаки блок мод 1",
+        "pt": "1 Block mod",
+        "es": "1 Block mod",
+        "pl": "1 Block mod",
+        "de": "1 Block mod",
+        "it": "1 Block mod",
+        "fr": "1 Block mod"
+      },
+      "desc": {
+        "en": "To  find a lucky block in survival mode you will need to go to the Nether and find a Nether fortress. The reason why you’ll find them here is that it’s the wither skeleton which has been replaced by a lucky block.This gives you a great reason to go to the Nether. But it is also a useful feature because it gives you a better chance of survival in an environment which is very harsh. Also& it will only spawn valuable items.You can also get them in the Overworld by using a wither skeleton spawn egg in creative mode.Every time you destroy a lucky block it always spawns some hamburgers and sometimes a pokeball.These are only retextures of the wither skeleton skull and the creeper head. You can’t use them for anything else than what they could be used for before. E.g. decoration and spawning the wither boss.",
+        "ru": "Чтобы найти счастливый блок в режиме выживания& вам нужно будет отправиться в Пустоту и найти крепость Пустоты. Причина& по которой вы найдете их здесь& это то& что это смуглый скелет& который был заменен удачным блоком.Это дает вам прекрасную возможность отправиться в Пустоту. Но это также полезная функция& потому что она дает вам больше шансов выжить в среде& которая очень суровая. Кроме того& он будет порождать только ценные предметы.Вы также можете получить их в Overworld& используя вискозное скелетное яйцо в творческом режиме.Каждый раз& когда вы уничтожаете удачный блок& он всегда порождает некоторые гамбургеры& а иногда и pokeball.Это всего лишь ретекстуры черепа черепа и голова. Вы не можете использовать их ни для чего другого& кроме того& что они могли бы использовать раньше. Например. Украшение и нерестование болота.",
+        "pt": "Para encontrar um bloco de sorte no modo de sobrevivencia& voce precisara ir ao Nether e encontrar uma fortaleza Nether. A razao pela qual voce vai encontra-los aqui e que e o esqueleto de corsa que foi substituido por um bloco de sorte.Isso lhe da uma otima razao para ir ao Nether. Mas tambem e uma caracteristica util& pois oferece uma melhor chance de sobrevivencia em um ambiente muito aspero. Alem disso& so gerara itens valiosos.Voce tambem pode obte-los no Overworld usando um ovo de mistura de esqueleto wither no modo criativo.Toda vez que voce destruir um bloco de sorte sempre gera alguns hamburgueres e as vezes um pokeball.Estas sao apenas retitulacoes do cranio de esqueleto decadente e da cabeca de creeper. Voce nao pode usa-los para nada alem do que eles poderiam ser usados antes. Por exemplo. Decorando e gerando o chefe do murchidao.",
+        "es": "Para encontrar un bloque de suerte en el modo de supervivencia tendra que ir a la Nether y encontrar una fortaleza de los Paises Bajos. La razon por la que usted los encontrara aqui es que es el esqueleto del wither que ha sido substituido por un bloque afortunado.Esto le da una gran razon para ir a la Nether. Pero tambien es una caracteristica util porque le da una mejor oportunidad de supervivencia en un ambiente que es muy duro. Ademas& solo generara objetos valiosos.Tambien puede obtenerlos en el Overworld usando un huevo de desove de esqueleto de Wither en modo creativo.Cada vez que destruyes un bloque de suerte siempre genera algunas hamburguesas ya veces una pokeball.Estas son solamente retextures del craneo del esqueleto del wither y de la cabeza de la enredadera. No puedes usarlos para nada mas que para lo que podrian ser usados antes. P.ej. Decoracion y desove del jefe marchito.",
+        "pl": "Aby znalezc szczesliwy blok w trybie przetrwania& musisz przejsc do Nether i znalezc twierdze Nether. Powodem& dla ktorego znajdziesz je tutaj jest to& ze jest to szkielet& ktory zostal zastapiony przez szczesliwy blok.To daje Ci swietny powod& aby udac sie do Nether. Jest to rowniez uzyteczna cecha& poniewaz daje wieksza szanse przetrwania w srodowisku& ktore jest bardzo surowe. Powtarza tez tylko wartosciowe przedmioty.Mozesz tez dostac sie do Overworld& uzywajac w kreatywnym trybie zarodkowego szkieletu.Za kazdym razem& gdy niszczysz szczesliwy blok& zawsze rodzi sie kilka hamburgerow& a czasami pokeball.Sa to tylko zamocowania krotkowzrocznej czaszki i glowy pelzajacej. Nie mozna ich uzywac do niczego innego& niz mozna by bylo ich wczesniej uzyc. Na przyklad. Dekoracji i tarla krowe.",
+        "de": "Um einen glucklichen Block im Uberlebensmodus zu finden& musst du in den Nether gehen und eine niedere Festung finden. Der Grund& warum du sie hier finden wirst& ist& dass es das verwelkende Skelett ist& das durch einen glucklichen Block ersetzt wurde.Das gibt Ihnen einen guten Grund& in den Nether zu gehen. Aber es ist auch eine nutzliche Eigenschaft& weil es Ihnen eine bessere Uberlebenschance in einer Umgebung gibt& die sehr hart ist. Auch wird es nur wertvolle Gegenstande hervorbringen.Sie konnen sie auch in der Overworld bekommen& indem Sie mit einem Wurzel-Skelett-Ei im Creative-Modus arbeiten.Jedes Mal& wenn du einen Glucksblock zerstorst& entsteht immer ein Hamburger und manchmal ein Pokeball.Das sind nur Retexturen des verwelkten Skelettschadels und des Kriechkopfes. Sie konnen sie nicht fur irgendetwas anderes verwenden& als was sie vorher benutzt werden konnten. Z.B. Dekoration und Laich der verdorbene Chef.",
+        "it": "Per trovare un blocco fortunato nella modalita di sopravvivenza bisogna andare al Nether e trovare una fortezza Nether. La ragione per cui li troverai qui e che e il scheletro scuro che e stato sostituito da un blocco fortunato.Questo ti da una grande ragione per andare al Nether. Ma e anche una caratteristica utile perche ti offre una migliore possibilita di sopravvivenza in un ambiente molto duro. Inoltre& produrra solo elementi preziosi.Puoi anche metterli nel Overworld utilizzando un uovo spawn di scheletro sepolto in modalita creativa.Ogni volta che distruggi un blocco fortunato& crea sempre degli hamburger e talvolta un pizzico.Queste sono solo retextures del cranio sconnesso e della testa del creeper. Non puoi utilizzarli per nient'altro che quello che potevano essere usati prima. Per esempio. Decorazione e spawning il cappello disteso.",
+        "fr": "Pour trouver un bloc chanceux en mode survie& vous devrez aller au Nether et trouver une forteresse Nether. La raison pour laquelle vous les trouverez ici est que c'est le squelette qui a ete remplace par un bloc chanceux.Cela vous donne une excellente raison d'aller au Nether. Mais c'est aussi un element utile& car il vous offre une meilleure chance de survie dans un environnement tres severe. En outre& il ne generera que des objets de valeur.Vous pouvez egalement les obtenir dans le Overworld a l'aide d'un oeuf de mouche squelette en mode creatif.Chaque fois que vous detruisez un bloc chanceux& il engendre toujours des hamburgers et parfois un pokeball.Ce ne sont que des retextures du crane squelette et de la tete des liane. Vous ne pouvez pas les utiliser pour autre chose que ce qu'ils pourraient utiliser avant. Par exemple. La decoration et la fraie du bossage."
+      }
+    },
+    {
+      "imgname": "2.jpg",
+      "name": {
+        "en": "Demo lucky block addon",
+        "ru": "Демо лаки блок аддон",
+        "pt": "Demo lucky block addon",
+        "es": "Demo lucky block addon",
+        "pl": "Demo lucky block addon",
+        "de": "Demo lucky block addon",
+        "it": "Demo lucky block addon",
+        "fr": "Demo lucky block addon"
+      },
+      "desc": {
+        "en": "The Lucky Blocks Addon adds an exciting element to the game. It looks very much like a block but it is in fact an entity which you can kill. Once it is killed something random will happen. If you are lucky you might get lots of valuable items but sometimes something much worse happens such as the wither boss spawning.",
+        "ru": "Lucky Blocks Addon добавляет захватывающий элемент в игру. Он очень похож на блок& но на самом деле это объект& который вы можете убить. Как только он будет убит& произойдет что-то случайное. Если вам повезет& вы можете получить много ценных предметов& но иногда случается что-то гораздо худшее& например& усыхающий босс.",
+        "pt": "O Lucky Blocks Addon adiciona um elemento emocionante ao jogo. Parece muito um bloco& mas e de fato uma entidade que voce pode matar. Uma vez que e morto& algo aleatorio acontecera. Se voce tem sorte& voce pode obter muitos itens valiosos& mas as vezes algo muito pior acontece& como a germinacao do murchador.",
+        "es": "El Lucky Blocks Addon agrega un elemento emocionante al juego. Se parece mucho a un bloque& pero es de hecho una entidad que se puede matar. Una vez que se mata& sucedera algo aleatorio. Si usted es afortunado usted puede ser que consiga porciones de articulos valiosos pero algo a veces mucho peor sucede tal como el deshielo de la pista del wither.",
+        "pl": "Lucky Blocks Addon dodaje ekscytujacy element do gry. Wyglada bardzo podobnie jak blok& ale w rzeczywistosci jest to jednostka& ktora mozna zabic. Kiedy zostanie zabite& nastapi cos losowego. Jesli masz szczescie& mozesz otrzymac wiele cennych przedmiotow& ale czasami cos sie gorszego& np. Z zawalem.",
+        "de": "Der Lucky Blocks Addon fugt dem Spiel ein spannendes Element hinzu. Es sieht sehr ahnlich wie ein Block& aber es ist tatsachlich eine Entitat& die du toten kannst. Sobald es getotet wird& wird etwas zufallig passieren. Wenn Sie Gluck haben& konnen Sie viele wertvolle Gegenstande bekommen& aber manchmal ist etwas Schlimmeres passiert wie der verwelkende Chef& der hervorbringt.",
+        "it": "I blocchi fortunati Addon aggiunge un elemento emozionante al gioco. Sembra molto come un blocco& ma e in realta un'entita che puoi uccidere. Una volta che viene ucciso qualcosa di casuale avverra. Se sei fortunato potresti ottenere molti oggetti preziosi& ma a volte accade qualcosa di molto peggio& come la spaccatura del cappello.",
+        "fr": "Le Lucky Blocks Addon ajoute un element passionnant au jeu. Cela ressemble beaucoup a un bloc& mais c'est en fait une entite que vous pouvez tuer. Une fois qu'il est tue& quelque chose de hasard se produira. Si vous avez de la chance& vous pourriez avoir beaucoup d'objets de valeur& mais parfois quelque chose de bien pire& comme le genie du murier."
+      }
+    },
+    {
+      "imgname": "3.jpg",
+      "name": {
+        "en": "Lite Lucky block race",
+        "ru": "Бикини Боттом",
+        "pt": "Lite Lucky block race",
+        "es": "Lite Lucky block race",
+        "pl": "Lite Lucky block race",
+        "de": "Lite Lucky block race",
+        "it": "Lite Lucky block race",
+        "fr": "Lite Lucky block race"
+      },
+      "desc": {
+        "en": "This map is the perfect minigame for up to three players. It includes lucky blocks which will spawn everything from enchanted swords to ignited TNTs and raging creepers. Find your way through the racing track and then compete in a duel against the other players in the fighting arena.How to play?Before starting begin by setting the game’s difficulty to max. It’s recommended to play the map together with at least one friend (preferably two). Take an iron pickaxe from the chest and then line up in front of the racing tracks (one track per player) and then do a countdown from 10.The redstone block acts as a lucky block. You must destroy it before moving further down the track and deal with whatever surprise comes next. Sometimes you’ll get weapons and other times a random mob might spawn.When you reach the end of the track you will come to a fighting area. You are only allowed to fight other players once they have reached into this area (behind the redstone torches).The last man or woman standing will be the winner. To play the map again you will need to reinstall it.",
+        "ru": "Эта карта - идеальная мини-игра для трех игроков. Он включает в себя удачные блоки& которые будут порождать все от зачарованных мечей до зажигаемых тротилов и бушующих лианов. Найдите свой путь через гоночный трек& а затем соревнуйтесь в поединке с другими игроками на боевой арене.Как играть?Прежде чем начать& установите сложность игры максимум. Рекомендуется играть на карте вместе с по крайней мере одним другом (желательно два). Возьмите железную кирку из сундука& а затем выстроитесь впереди гоночных треков (по одному треку на одного игрока)& а затем выполните обратный отсчет с 10.Блок Redstone действует как удачный блок. Вы должны уничтожить его& прежде чем двигаться дальше по дорожке и разобраться с тем& что произойдет дальше. Иногда вы получаете оружие и другие случаи& когда случайная толпа может появиться.Когда вы достигнете конца трека& вы попадете в зону боевых действий. Вам разрешено сражаться с другими игроками только после того& как они достигли этой области (за факелами из красного камня).Победителем станет последний мужчина или женщина. Чтобы снова воспроизвести карту& вам нужно будет ее переустановить.",
+        "pt": "Este mapa e o minigame perfeito para ate tres jogadores. Inclui blocos de sorte que gerarao tudo& desde espadas encantadas ate lancar TNTs e creepers furiosos. Encontre o seu caminho atraves da pista de corrida e& em seguida& concorra num duelo contra os outros jogadores na arena de luta.Como jogar?Antes de comecar comece por definir a dificuldade do jogo no maximo. Recomenda-se jogar o mapa junto com pelo menos um amigo (de preferencia dois). Pegue uma picareta de ferro do bau e& em seguida& se alinhe em frente das faixas de corrida (uma faixa por jogador) e depois faca uma contagem regressiva de 10.O bloco redstone age como um bloco de sorte. Voce deve destrui-lo antes de avancar mais abaixo da trilha e lidar com o que a surpresa vem depois. As vezes& voce obtera armas e outras vezes uma multidao aleatoria pode gerar.Quando voce chegar ao final da pista& voce vira para uma area de combate. Voce so tem permissao para lutar contra outros jogadores uma vez que eles alcancaram essa area (atras das tochas redstone).O ultimo homem ou mulher em pe sera o vencedor. Para jogar o mapa de novo& voce precisara reinstala-lo.",
+        "es": "Este mapa es el minijuego perfecto para hasta tres jugadores. Incluye bloques de suerte que generaran todo& desde espadas encantadas hasta TNTs encendidas y enredaderas furiosas. Encuentra tu camino a traves de la pista de carreras y luego compite en un duelo contra los otros jugadores en el campo de batalla.?Como jugar?Antes de empezar empieza poniendo la dificultad del juego a un maximo. Se recomienda jugar el mapa junto con al menos un amigo (preferiblemente dos). Tome una pica de hierro del pecho y luego alinearse delante de las pistas de carreras (una pista por jugador) y luego hacer una cuenta regresiva de 10.El bloque de redstone actua como un bloque afortunado. Debe destruirlo antes de seguir avanzando por la pista y hacer frente a cualquier sorpresa que viene despues. A veces obtendras armas y otras veces una multitud puede aparecer.Cuando llegue al final de la pista llegara a un area de combate. Solo se le permite luchar contra otros jugadores una vez que han llegado a esta zona (detras de las antorchas redstone).El ultimo hombre o mujer de pie sera el ganador. Para volver a reproducir el mapa& debera reinstalarlo.",
+        "pl": "Ta mapa jest idealnym minigamem dla maksymalnie trzech graczy. Zawiera szczesliwe klocki& ktore beda odrabiac wszystko od zaczarowanych mieczow po zapalone TNT i szalejace pnacza. Znajdz droge przez tor wyscigowy& a nastepnie rywalizuj w pojedynku z innymi graczami na arenie walki.Jak grac?Przed rozpoczeciem nalezy rozpoczac od ustawienia trudnosci gry na maks. Zaleca sie granie na mapie razem z co najmniej jednym przyjacielem (najlepiej dwoma). Wez zelazny piczekks z klatki piersiowej& a nastepnie wyladuj przed torami wyscigowymi (jeden utwor na jednego gracza)& a nastepnie odliczaj od 10.Blok redstone dziala jak szczesliwy blok. Musisz go zniszczyc& zanim ruszysz dalej w dol toru i poradzisz sobie z czymkolwiek niespodzianka. Czasem dostaniesz bron i indziej& moze sie pojawic przypadkowy tlum.Kiedy dotrzesz do konca utworu& dojdziesz do miejsca walki. Mozesz tylko walczyc z innymi graczami& gdy tylko dotra do tego obszaru (za palnikami redstone'a).Ostatnim mezczyzna lub kobieta bedzie zwyciezca. Aby ponownie odtworzyc mape& musisz ja ponownie zainstalowac.",
+        "de": "Diese Karte ist das perfekte Minispiel fur bis zu drei Spieler. Es enthalt gluckliche Blocke& die alles von verzauberten Schwertern zu entzundeten TNTs und wutenden Kletterpflanzen hervorbringen werden. Finden Sie Ihren Weg durch die Rennstrecke und konkurrieren Sie dann in einem Duell gegen die anderen Spieler in der Kampfarena.Spielanleitung?Bevor Sie beginnen& indem Sie die Schwierigkeit des Spiels auf max. Es wird empfohlen& die Karte zusammen mit mindestens einem Freund (vorzugsweise zwei) zu spielen. Nehmen Sie eine eiserne Spitzhacke aus der Brust und richten Sie sich dann vor den Rennstrecken (eine Spur pro Spieler) und dann einen Countdown von 10 aus.Der Redstone Block fungiert als Glucksblock. Du musst es zerstoren& bevor du dich weiter hinuntergehst und damit umgehen kannst. Manchmal bekommst du Waffen und andere Zeiten& die ein zufalliger Mob hervorbringen konnte.Wenn du das Ende der Strecke erreichst& wirst du in einen Kampfbereich kommen. Sie durfen nur noch andere Spieler kampfen& sobald sie in diesen Bereich gelangt sind (hinter den Redstone-Fackeln).Der letzte Mann oder die Frau steht der Sieger. Um die Karte wieder zu spielen& musst du sie neu installieren.",
+        "it": "Questa mappa e il minigio perfetto per un massimo di tre giocatori. Esso comprende fortunati blocchi che spawn tutto da spade incantati a TNT infiammati e rampicanti creepers. Trovare la strada attraverso la pista da corsa e poi competere in un duello contro gli altri giocatori nell'arena di combattimento.Come giocare?Prima di iniziare& iniziare ad impostare la difficolta del gioco a max. Si raccomanda di giocare la mappa insieme ad almeno un amico (preferibilmente due). Prendete una picchia di ferro dal petto e poi allineate davanti alle piste da corsa (una traccia per giocatore) e poi fare un conto alla rovescia da 10.Il blocco Redstone funge da blocco fortunato. Devi distruggerla prima di andare piu in giu in pista e affrontare qualsiasi sorpresa. A volte si otterra armi e altre volte una folla casuale potrebbe spawn.Quando si arriva alla fine della pista si arriva ad una zona di combattimento. E consentito solo di combattere altri giocatori una volta raggiunti in questa zona (dietro le torce di Redstone).L'ultimo uomo o donna in piedi sara il vincitore. Per riprodurre nuovamente la mappa sara necessario reinstallarlo.",
+        "fr": "Cette carte est le mini-jeu parfait pour un maximum de trois joueurs. Il comprend des blocs chanceux qui engendreront tout& des epees enchantees a des TNT et des lianes furieuses. Trouvez votre chemin dans la piste de course et participez alors a un duel contre les autres joueurs de l'arene de combat.Comment jouer?Avant de commencer& commencez par definir la difficulte du jeu au maximum. Il est recommande de jouer a la carte avec au moins un ami (de preference deux). Prenez une pioche de fer de la poitrine& puis alignez-vous devant les pistes de course (une piste par joueur) puis faites un compte a rebours de 10.Le bloc redstone agit comme un bloc chanceux. Vous devez le detruire avant de vous deplacer plus loin sur la piste et de faire face a la surprise prochaine. Parfois& vous obtiendrez des armes et d'autres fois& une foule aleatoire pourrait engendrer.Lorsque vous atteindrez la fin de la piste& vous arriverez dans une zone de combat. Vous etes seulement autorise a combattre d'autres joueurs une fois qu'ils ont atteint ce domaine (derriere les torches redstone).Le dernier homme ou femme debout sera le gagnant. Pour jouer a nouveau& vous devrez le reinstaller."
+      }
+    },
+    {
+      "imgname": "4.jpg",
+      "name": {
+        "en": "Vladu11’s Lucky Blocks Add-on",
+        "ru": "Vladu11’s Lucky Blocks Add-on",
+        "pt": "Vladu11’s Lucky Blocks Add-on",
+        "es": "Vladu11’s Lucky Blocks Add-on",
+        "pl": "Vladu11’s Lucky Blocks Add-on",
+        "de": "Vladu11’s Lucky Blocks Add-on",
+        "it": "Vladu11’s Lucky Blocks Add-on",
+        "fr": "Vladu11’s Lucky Blocks Add-on"
+      },
+      "desc": {
+        "en": "This is an addon which turns the husk into a lucky block. A lucky block is similar to a chest in that it adds an exciting moment to the game because you never really know what you will get. Break the block to find out if luck is on your side!How does it work?As the lucky block replaces the husk you will have to head out into the desert to find one in survival mode. If you don’t want to go for a hunt then find the husk spawn egg in the creative inventory and use it to spawn a lucky block.Hit it one time to destroy it.The main thing I like about this lucky block addon is that it’s a good variety of items which can spawn& including ones of less value. This makes breaking one a little bit more exciting as you don’t know for certain what you will get.There are 37 different items which can spawn. Here’s a full list of them all.",
+        "ru": "Это аддон& который превращает шелуху в удачный блок. Удачный блок похож на сундук& в котором он добавляет захватывающий момент в игру& потому что вы никогда не знаете& что получите. Разбейте блок& чтобы узнать& удача на вашей стороне!Как это работает?Поскольку удачный блок заменяет шелуху& вам придется отправиться в пустыню& чтобы найти ее в режиме выживания. Если вы не хотите идти на охоту& то найдите яйцо из лузги в творческом инвентаре и используйте его& чтобы создать счастливый блок.Ударьте его один раз& чтобы уничтожить его.Главное& что мне нравится в этом счастливом блочном аддоне& это то& что это очень разнообразные предметы& которые могут появляться& в том числе и менее ценные. Это делает взломание немного более захватывающим& поскольку вы не знаете наверняка& что вы получите.Есть 37 различных предметов& которые могут появляться. Вот полный список из них.",
+        "pt": "Este e um addon que transforma a casca em um bloco de sorte. Um bloco de sorte e semelhante a um bau na medida em que ele adiciona um momento emocionante para o jogo porque voce nunca sabe o que voce vai conseguir. Quebre o bloco para descobrir se a sorte esta do seu lado!Como funciona?Como o bloco de sorte substitui a casca& voce tera que ir para o deserto para encontrar um no modo de sobrevivencia. Se voce nao quiser ir para uma caca& entao ache o ovo de criacao de casca no inventario criativo e use-o para gerar um bloco de sorte.Acerte uma vez para destrui-la.O principal que eu gosto sobre este addon de bloco de sorte e que e uma boa variedade de itens que podem gerar& incluindo os de menor valor. Isso torna um pouco mais excitante& pois voce nao sabe com certeza o que voce vai conseguir.Existem 37 itens diferentes que podem surgir. Aqui esta uma lista completa de todos eles.",
+        "es": "Este es un complemento que convierte la cascara en un bloque afortunado. Un bloque de suerte es similar a un cofre en que anade un momento emocionante para el juego porque nunca se sabe lo que obtendra. Romper el bloque para averiguar si la suerte esta de su lado!?Como funciona?Como el bloque afortunado reemplaza la cascara que tendra que dirigirse hacia el desierto para encontrar uno en modo de supervivencia. Si usted no quiere ir a una caza a continuacion& encontrar la cascara de huevo de desove en el inventario creativo y utilizarlo para generar un bloque de suerte.Lo golpeo una vez para destruirlo.Lo principal que me gusta de este bloque de bloque afortunado es que es una buena variedad de elementos que pueden generar& incluyendo los de menor valor. Esto hace que romper uno un poco mas emocionante como usted no sabe con certeza lo que obtendra.Hay 37 articulos diferentes que pueden desovar. Aqui esta una lista completa de todos ellos.",
+        "pl": "Jest to dodatek& ktory przeksztalca lupke w szczesliwy blok. Szczesliwy blok jest podobny do klatki piersiowej& dodajac ekscytujaca chwile do gry& poniewaz nigdy nie wiadomo& co otrzymasz. Przerwa w bloku& aby dowiedziec sie& czy szczescie jest po twojej stronie!Jak to dziala?Gdy szczesliwy blok zastepuje lupe& musisz wejsc na pustynie& aby znalezc w trybie przetrwania. Jesli nie chcesz chodzic na polowanie& znajdz jajecznice z luska w kreatywnym spisie i uzyj jej& aby odrodzic szczesliwy blok.Jedz tylko raz& aby go zniszczyc.Najwazniejsza rzecza& jaka lubie w tym dodatku na szczescie to& ze jest to dobry wybor rzeczy& ktore moga sie pojawic& w tym te o mniej wartosci. To sprawia& ze rozbijanie troche bardziej ekscytujace& poniewaz nie wiesz na pewno& co otrzymasz.Istnieje 37 roznych przedmiotow& ktore moga sie pojawic. Oto pelna lista wszystkich.",
+        "de": "Dies ist ein Addon& das die Schale zu einem Glucksblock macht. Ein glucklicher Block ahnelt einer Truhe& dass es dem Spiel einen spannenden Moment hinzufugt& weil du niemals wirklich wei?t& was du bekommst. Brechen Sie den Block& um herauszufinden& ob Gluck auf Ihrer Seite ist!Wie funktioniert es?Als der Glucksblock die Schale ersetzt& musst du in die Wuste treten& um einen im Uberlebensmodus zu finden. Wenn Sie nicht fur eine Jagd gehen wollen& dann finden Sie die Schale Spawn Ei in der kreativen Inventar und verwenden Sie es& um einen glucklichen Block zu spawn.Schlage es einmal& es zu zerstoren.Die Hauptsache& die ich an diesem glucklichen Block Addon mag& ist& dass es eine gute Vielzahl der Einzelteile ist& die hervorbringen konnen& einschlie?lich der des weniger Wertes. Das macht das Brechen ein bisschen spannender& wie Sie nicht wissen& was Sie bekommen werden.Es gibt 37 verschiedene Gegenstande& die laichen konnen. Hier ist eine vollstandige Liste von allen.",
+        "it": "Questo e un addon che trasforma la buccia in un blocco fortunato. Un blocco fortunato e simile a un torace in quanto aggiunge un momento emozionante al gioco perche non sai mai cosa otterrai. Break the block per scoprire se la fortuna e al tuo fianco!Come funziona?Mentre il blocco fortunato sostituisce la buccia& dovrai uscire nel deserto per trovare uno in modalita di sopravvivenza. Se non vuoi andare per una caccia& allora trovare il mucchio spawn egg nel inventario creativo e usarlo per spawn un blocco fortunato.Colpisci una volta per distruggerlo.La cosa principale che mi piace di questa fortunata blocco addon e che e una buona varieta di elementi che possono spawn& anche quelli di meno valore. Questo rende la rottura un po 'piu emozionante come non sai per certo che cosa si otterra.Ci sono 37 diversi elementi che possono spawn. Ecco un elenco completo di tutti.",
+        "fr": "C'est un addon qui transforme la coquille en un bloc chanceux. Un bloc chanceux est similaire a un coffre car il ajoute un moment passionnant au jeu parce que vous ne savez jamais vraiment ce que vous obtiendrez. Brisez le bloc pour savoir si la chance est de votre cote!Comment ca marche?Comme le bloc chanceux remplace la coquille& vous devrez vous diriger vers le desert pour en trouver un en mode de survie. Si vous ne voulez pas faire une chasse& trouvez l'?uf de frai de coquille dans l'inventaire creatif et utilisez-le pour engendrer un bloc chanceux.Il l'a frappe une fois pour le detruire.La principale chose que j'aime a propos de cet addon de bloc chanceux& c'est que c'est une bonne variete d'objets qui peuvent engendrer& y compris ceux de moins de valeur. Cela rend le coup un un peu plus excitant car vous ne savez pas avec certitude ce que vous obtiendrez.Il existe 37 elements differents qui peuvent engendrer. Voici une liste complete de tous."
+      }
+    },
+    {
+      "imgname": "5.jpg",
+      "name": {
+        "en": "Lucky Block Race 2",
+        "ru": "Гонки Лаки Блок 2",
+        "pt": "Lucky Block Race 2",
+        "es": "Lucky Block Race 2",
+        "pl": "Lucky Block Race 2",
+        "de": "Lucky Block Race 2",
+        "it": "Lucky Block Race 2",
+        "fr": "Lucky Block Race 2"
+      },
+      "desc": {
+        "en": "This map is the perfect minigame for up to three players. It includes lucky blocks which will spawn everything from enchanted swords to ignited TNTs and raging creepers. Find your way through the racing track and then compete in a duel against the other players in the fighting arena.How to play?Before starting begin by setting the game’s difficulty to max. It’s recommended to play the map together with at least one friend (preferably two). Take an iron pickaxe from the chest and then line up in front of the racing tracks (one track per player) and then do a countdown from 10.The redstone block acts as a lucky block. You must destroy it before moving further down the track and deal with whatever surprise comes next. Sometimes you’ll get weapons and other times a random mob might spawn.When you reach the end of the track you will come to a fighting area. You are only allowed to fight other players once they have reached into this area (behind the redstone torches).The last man or woman standing will be the winner. To play the map again you will need to reinstall it.",
+        "ru": "Эта карта - идеальная мини-игра для трех игроков. Он включает в себя удачные блоки& которые будут порождать все от зачарованных мечей до зажигаемых тротилов и бушующих лианов. Найдите свой путь через гоночный трек& а затем соревнуйтесь в поединке с другими игроками на боевой арене.Как играть?Прежде чем начать& установите сложность игры максимум. Рекомендуется играть на карте вместе с по крайней мере одним другом (желательно два). Возьмите железную кирку из сундука& а затем выстроитесь впереди гоночных треков (по одному треку на одного игрока)& а затем выполните обратный отсчет с 10.Блок Redstone действует как удачный блок. Вы должны уничтожить его& прежде чем двигаться дальше по дорожке и разобраться с тем& что произойдет дальше. Иногда вы получаете оружие и другие случаи& когда случайная толпа может появиться.Когда вы достигнете конца трека& вы попадете в зону боевых действий. Вам разрешено сражаться с другими игроками только после того& как они достигли этой области (за факелами из красного камня).Победителем станет последний мужчина или женщина. Чтобы снова воспроизвести карту& вам нужно будет ее переустановить.",
+        "pt": "Este mapa e o minigame perfeito para ate tres jogadores. Inclui blocos de sorte que gerarao tudo& desde espadas encantadas ate lancar TNTs e creepers furiosos. Encontre o seu caminho atraves da pista de corrida e& em seguida& concorra num duelo contra os outros jogadores na arena de luta.Como jogar?Antes de comecar comece por definir a dificuldade do jogo no maximo. Recomenda-se jogar o mapa junto com pelo menos um amigo (de preferencia dois). Pegue uma picareta de ferro do bau e& em seguida& se alinhe em frente das faixas de corrida (uma faixa por jogador) e depois faca uma contagem regressiva de 10.O bloco redstone age como um bloco de sorte. Voce deve destrui-lo antes de avancar mais abaixo da trilha e lidar com o que a surpresa vem depois. As vezes& voce obtera armas e outras vezes uma multidao aleatoria pode gerar.Quando voce chegar ao final da pista& voce vira para uma area de combate. Voce so tem permissao para lutar contra outros jogadores uma vez que eles alcancaram essa area (atras das tochas redstone).O ultimo homem ou mulher em pe sera o vencedor. Para jogar o mapa de novo& voce precisara reinstala-lo.",
+        "es": "Este mapa es el minijuego perfecto para hasta tres jugadores. Incluye bloques de suerte que generaran todo& desde espadas encantadas hasta TNTs encendidas y enredaderas furiosas. Encuentra tu camino a traves de la pista de carreras y luego compite en un duelo contra los otros jugadores en el campo de batalla.?Como jugar?Antes de empezar empieza poniendo la dificultad del juego a un maximo. Se recomienda jugar el mapa junto con al menos un amigo (preferiblemente dos). Tome una pica de hierro del pecho y luego alinearse delante de las pistas de carreras (una pista por jugador) y luego hacer una cuenta regresiva de 10.El bloque de redstone actua como un bloque afortunado. Debe destruirlo antes de seguir avanzando por la pista y hacer frente a cualquier sorpresa que viene despues. A veces obtendras armas y otras veces una multitud puede aparecer.Cuando llegue al final de la pista llegara a un area de combate. Solo se le permite luchar contra otros jugadores una vez que han llegado a esta zona (detras de las antorchas redstone).El ultimo hombre o mujer de pie sera el ganador. Para volver a reproducir el mapa& debera reinstalarlo.",
+        "pl": "Ta mapa jest idealnym minigamem dla maksymalnie trzech graczy. Zawiera szczesliwe klocki& ktore beda odrabiac wszystko od zaczarowanych mieczow po zapalone TNT i szalejace pnacza. Znajdz droge przez tor wyscigowy& a nastepnie rywalizuj w pojedynku z innymi graczami na arenie walki.Jak grac?Przed rozpoczeciem nalezy rozpoczac od ustawienia trudnosci gry na maks. Zaleca sie granie na mapie razem z co najmniej jednym przyjacielem (najlepiej dwoma). Wez zelazny piczekks z klatki piersiowej& a nastepnie wyladuj przed torami wyscigowymi (jeden utwor na jednego gracza)& a nastepnie odliczaj od 10.Blok redstone dziala jak szczesliwy blok. Musisz go zniszczyc& zanim ruszysz dalej w dol toru i poradzisz sobie z czymkolwiek niespodzianka. Czasem dostaniesz bron i indziej& moze sie pojawic przypadkowy tlum.Kiedy dotrzesz do konca utworu& dojdziesz do miejsca walki. Mozesz tylko walczyc z innymi graczami& gdy tylko dotra do tego obszaru (za palnikami redstone'a).Ostatnim mezczyzna lub kobieta bedzie zwyciezca. Aby ponownie odtworzyc mape& musisz ja ponownie zainstalowac.",
+        "de": "Diese Karte ist das perfekte Minispiel fur bis zu drei Spieler. Es enthalt gluckliche Blocke& die alles von verzauberten Schwertern zu entzundeten TNTs und wutenden Kletterpflanzen hervorbringen werden. Finden Sie Ihren Weg durch die Rennstrecke und konkurrieren Sie dann in einem Duell gegen die anderen Spieler in der Kampfarena.Spielanleitung?Bevor Sie beginnen& indem Sie die Schwierigkeit des Spiels auf max. Es wird empfohlen& die Karte zusammen mit mindestens einem Freund (vorzugsweise zwei) zu spielen. Nehmen Sie eine eiserne Spitzhacke aus der Brust und richten Sie sich dann vor den Rennstrecken (eine Spur pro Spieler) und dann einen Countdown von 10 aus.Der Redstone Block fungiert als Glucksblock. Du musst es zerstoren& bevor du dich weiter hinuntergehst und damit umgehen kannst. Manchmal bekommst du Waffen und andere Zeiten& die ein zufalliger Mob hervorbringen konnte.Wenn du das Ende der Strecke erreichst& wirst du in einen Kampfbereich kommen. Sie durfen nur noch andere Spieler kampfen& sobald sie in diesen Bereich gelangt sind (hinter den Redstone-Fackeln).Der letzte Mann oder die Frau steht der Sieger. Um die Karte wieder zu spielen& musst du sie neu installieren.",
+        "it": "Questa mappa e il minigio perfetto per un massimo di tre giocatori. Esso comprende fortunati blocchi che spawn tutto da spade incantati a TNT infiammati e rampicanti creepers. Trovare la strada attraverso la pista da corsa e poi competere in un duello contro gli altri giocatori nell'arena di combattimento.Come giocare?Prima di iniziare& iniziare ad impostare la difficolta del gioco a max. Si raccomanda di giocare la mappa insieme ad almeno un amico (preferibilmente due). Prendete una picchia di ferro dal petto e poi allineate davanti alle piste da corsa (una traccia per giocatore) e poi fare un conto alla rovescia da 10.Il blocco Redstone funge da blocco fortunato. Devi distruggerla prima di andare piu in giu in pista e affrontare qualsiasi sorpresa. A volte si otterra armi e altre volte una folla casuale potrebbe spawn.Quando si arriva alla fine della pista si arriva ad una zona di combattimento. E consentito solo di combattere altri giocatori una volta raggiunti in questa zona (dietro le torce di Redstone).L'ultimo uomo o donna in piedi sara il vincitore. Per riprodurre nuovamente la mappa sara necessario reinstallarlo.",
+        "fr": "Cette carte est le mini-jeu parfait pour un maximum de trois joueurs. Il comprend des blocs chanceux qui engendreront tout& des epees enchantees a des TNT et des lianes furieuses. Trouvez votre chemin dans la piste de course et participez alors a un duel contre les autres joueurs de l'arene de combat.Comment jouer?Avant de commencer& commencez par definir la difficulte du jeu au maximum. Il est recommande de jouer a la carte avec au moins un ami (de preference deux). Prenez une pioche de fer de la poitrine& puis alignez-vous devant les pistes de course (une piste par joueur) puis faites un compte a rebours de 10.Le bloc redstone agit comme un bloc chanceux. Vous devez le detruire avant de vous deplacer plus loin sur la piste et de faire face a la surprise prochaine. Parfois& vous obtiendrez des armes et d'autres fois& une foule aleatoire pourrait engendrer.Lorsque vous atteindrez la fin de la piste& vous arriverez dans une zone de combat. Vous etes seulement autorise a combattre d'autres joueurs une fois qu'ils ont atteint ce domaine (derriere les torches redstone).Le dernier homme ou femme debout sera le gagnant. Pour jouer a nouveau& vous devrez le reinstaller."
+      }
+    },
+    {
+      "imgname": "6.jpg",
+      "name": {
+        "en": "Hardcore Lucky Block Mod",
+        "ru": "Хардкорный лаки блок мод",
+        "pt": "Hardcore Lucky Block Mod",
+        "es": "Hardcore Lucky Block Mod",
+        "pl": "Hardcore Lucky Block Mod",
+        "de": "Hardcore Lucky Block Mod",
+        "it": "Hardcore Lucky Block Mod",
+        "fr": "Hardcore Lucky Block Mod"
+      },
+      "desc": {
+        "en": "Test your luck with the Lucky Block Hardcore Mod. Break the block and look forward (or maybe not) to 25 different instances of disastrous and sometimes amazing outcomes. Make sure to set difficulty to survival and try to survive at least 25 rounds of hardcore lucky blocks!How to obtain the block?If in surival mode type /Hardcore in the in-game text chat to obtain the hardcore lucky block. You can also obtain the block by using the creative inventory and going to the decoration tab.Lucky Block Hardcore (ID: 200)Even if it’s a great risk that some incredibly bad things will happen there’s a tiny chance for good things too. On two other tries I got loads of valuable gear and plenty of fish!",
+        "ru": "Испытайте свою удачу с Lucky Block Hardcore Mod. Разбейте блок и посмотрите вперед (или& может быть& нет) на 25 различных случаев катастрофических& а иногда и поразительных результатов. Удостоверьтесь& чтобы установить сложность для выживания и попытаться выжить как минимум 25 раундов хардкорных удачливых блоков!Как получить блок?Если в режиме сурвального типа / Hardcore в текстовом чате в игре& чтобы получить хардкорный счастливый блок. Вы также можете получить этот блок& используя инвентарь объявления и перейдите на вкладку украшения.Lucky Block Hardcore (ID: 200)Даже если это большой риск& что некоторые невероятно плохие вещи произойдут& есть крошечный шанс на хорошие вещи. В двух других попытках я получил массу ценных снарядов и много рыбы!",
+        "pt": "Teste sua sorte com o Lucky Block Hardcore Mod. Desligue o bloco e olhe para a frente (ou talvez nao) para 25 casos diferentes de resultados desastrosos e as vezes surpreendentes. Certifique-se de colocar a dificuldade para a sobrevivencia e tentar sobreviver ao menos 25 rodadas de blocos de sorte hardcore!Como obter o bloco?Se no modo de suralidade digitar / Hardcore no bate-papo de texto no jogo para obter o bloco de sorteo hardcore. Voce tambem pode obter o bloco usando o inventario criativo e indo para a guia decoracao.Lucky Block Hardcore (ID: 200)Mesmo que seja um grande risco que algumas coisas incrivelmente ruins acontecam& ha uma pequena chance de coisas boas tambem. Em duas outras tentativas eu recebi um monte de equipamentos valiosos e muitos peixes!",
+        "es": "Prueba tu suerte con el Lucky Block Hardcore Mod. Romper el bloque y mirar hacia adelante (o tal vez no) a 25 casos diferentes de resultados desastrosos ya veces sorprendentes. Asegurese de establecer la dificultad para sobrevivir y tratar de sobrevivir por lo menos 25 rondas de bloques de la suerte hardcore!?Como obtener el bloque?Si en modalidad surival / Hardcore en el chat de chat en el juego para obtener el bloque de suerte hardcore. Tambien puede obtener el bloque utilizando el inventario de creatividades y accediendo a la pestana de decoracion.Lucky Block Hardcore (ID: 200)Incluso si es un gran riesgo que algunas cosas increiblemente malas sucedan& hay una pequena oportunidad para cosas buenas tambien. En otros dos intentos consegui un monton de equipo valioso y un monton de peces!",
+        "pl": "Sprawdz swoje szczescie z Lucky Block Hardcore Mod. Przerwij blok i popatrz (lub moze nie) do 25 roznych przypadkow katastrofalnych& a czasami niesamowitych rezultatow. Upewnij sie& ze trudnosci z przetrwaniem i probuj przetrwac co najmniej 25 rund hardcore lucky blocks!Jak uzyskac blok?Jesli w trybie surival mode / Hardcore w czacie tekstowym w grze otrzymasz blok z szczesciem na hardcore. Blok mozna tez uzyskac& korzystajac z zasobow kreacji i przejdz na karte dekoracji.Lucky Block Hardcore (ID: 200)Nawet jesli jest to wielkie ryzyko& ze niektore niewiarygodnie zle rzeczy zdarza sie& istnieje rowniez mala szansa na dobre rzeczy. Na dwoch innych probach dostalem wiele cennych narzedzi i mnostwo ryb!",
+        "de": "Testen Sie Ihr Gluck mit dem Lucky Block Hardcore Mod. Brechen Sie den Block und freuen sich (oder vielleicht auch) auf 25 verschiedene Instanzen von katastrophalen und manchmal erstaunlichen Ergebnissen. Achten Sie darauf& Schwierigkeiten zu uberleben und versuchen& mindestens 25 Runden Hardcore Gluck Blocke zu uberleben!Wie bekomme ich den Block?Wenn im Surival-Modus Typ / Hardcore im In-Game-Text-Chat& um den Hardcore-Glucksblock zu erhalten. Sie konnen den Block auch mit dem kreativen Inventar erhalten und auf die Registerkarte Dekoration gehen.Lucky Block Hardcore (ID: 200)Auch wenn es ein gro?es Risiko ist& dass einige unglaublich schlechte Dinge passieren werden& gibt es eine kleine Chance fur gute Dinge zu. Auf zwei anderen Versuchen bekam ich viel wertvolle Ausrustung und viel Fisch!",
+        "it": "Prova la tua fortuna con il Mod Lucky Block Hardcore. Rompere il blocco e guardare avanti (o forse no) a 25 diverse istanze di risultati disastrosi e talvolta sorprendenti. Assicurati di mettere in difficolta la sopravvivenza e cercare di sopravvivere almeno 25 round di blocchi fortunati hardcore!Come ottenere il blocco?Se in modalita Surival tipo / Hardcore nella chat di testo in-game per ottenere il blocco fortunato hardcore. Puoi anche ottenere il blocco utilizzando l'inventario creativo e andare alla scheda decorazione.Hardcore fortunato blocco (ID: 200)Anche se e un grande rischio che si verifichino delle cose incredibilmente brutte& c'e anche una minima possibilita per le cose buone. Su due altri tentativi ho avuto un sacco di attrezzi preziosi e un sacco di pesci!",
+        "fr": "Testez votre chance avec le Lucky Block Hardcore Mod. Brisez le bloc et regardez vers l'avant (ou peut-etre pas) jusqu'a 25 cas differents de resultats desastreux et parfois etonnants. Assurez-vous de mettre en difficulte la survie et d'essayer de survivre au moins 25 cycles de blocs chanceux hardcore!Comment obtenir le bloc?Si en mode de survie& tapez / Hardcore dans le jeu de texte dans le jeu pour obtenir le bloc chanceux hardcore. Vous pouvez egalement obtenir le bloc en utilisant l'inventaire creatif et en allant dans l'onglet Decoration.Lucky Block Hardcore (ID: 200)Meme si c'est un grand risque que des choses incroyablement mauvaises se produisent& il y a une petite chance pour de bonnes choses aussi. Sur deux autres essais& j'ai beaucoup d'engins precieux et beaucoup de poissons!"
+      }
+    },
+    {
+      "imgname": "7.jpg",
+      "name": {
+        "en": "Lucky Block Challenge",
+        "ru": "Лаки Блок Челлендж",
+        "pt": "Lucky Block Challenge",
+        "es": "Lucky Block Challenge",
+        "pl": "Lucky Block Challenge",
+        "de": "Lucky Block Challenge",
+        "it": "Lucky Block Challenge",
+        "fr": "Lucky Block Challenge"
+      },
+      "desc": {
+        "en": "This map is inspired by the minigame Lucky Blocks Challenge which is played by SSundee and MrCrainer on a weekly basis. Invite a friend (or multiple friends) to participate in the challenge. The setup is pretty simple. All players will get some lucky blocks which they have to destroy in order to obtain items which can be traded for other items you can use for combat in a PvP arena.How to play?The first thing you will need to do is to press the button under the sign called “Before You Start”. Next you’ll obtain 30 lucky blocks. If it for some reason doesn’t work then type the following text command in the chat: /give @a spawn_egg 30 12. Spawn the lucky blocks by using the lucky block spawn eggs and then destroy them and pick up all of the items.",
+        "ru": "Эта карта вдохновлена мини-игрой Lucky Blocks Challenge& которую играют SSundee и MrCrainer еженедельно. Пригласите друга (или нескольких друзей) принять участие в вызове. Настройка довольно проста. Все игроки получат удачные блоки& которые им нужно уничтожить& чтобы получить предметы& которые можно обменять на другие предметы& которые вы можете использовать для боя на арене PvP.Как играть?Первое& что вам нужно сделать& это нажать кнопку под значком «Before You Start». Затем вы получите 30 счастливых блоков. Если по какой-то причине это не сработает& введите следующую команду в чате: / give @a spawn_egg 30 12. Создайте счастливые блоки& используя удачные яйца яйца& а затем уничтожьте их и заберите все предметы.",
+        "pt": "Este mapa e inspirado no Minigame Lucky Blocks Challenge& que e desempenhado por SSundee e MrCrainer semanalmente. Convide um amigo (ou varios amigos) a participar do desafio. A configuracao e bastante simples. Todos os jogadores terao alguns blocos de sorte que eles precisam destruir para obter itens que podem ser negociados por outros itens que voce pode usar para o combate em uma arena PvP.Como jogar?A primeira coisa que voce precisa fazer e pressionar o botao abaixo do sinal chamado \"Antes de comecar\". Em seguida& voce obtera 30 blocos de sorte. Se por algum motivo nao funcionar& digite o seguinte comando de texto no bate-papo: / give @a spawn_egg 30 12. Faca os blocos de sorte ao usar o bloco afortunado gerar ovos e depois destrui-los e pegar todos os itens.",
+        "es": "Este mapa esta inspirado en el minijuego Lucky Blocks Challenge que es jugado por SSundee y MrCrainer semanalmente. Invita a un amigo (oa varios amigos) a participar en el desafio. La configuracion es bastante simple. Todos los jugadores tendran algunos bloques de suerte que tienen que destruir para obtener articulos que pueden ser intercambiados por otros articulos que puedes usar para combatir en una arena de PvP.?Como jugar?Lo primero que tendra que hacer es presionar el boton debajo de la senal llamada \"Antes de empezar\". A continuacion obtendra 30 bloques de suerte. Si por alguna razon no funciona& entonces escriba el siguiente comando de texto en el chat: / give @a spawn_egg 30 12. Gana los bloques de suerte usando los huevos de desove de bloque de suerte y luego destruirlos y recoger todos los elementos.",
+        "pl": "Ta mapa jest inspirowana minigame Lucky Blocks Challenge& ktoremu graja SSundee i MrCrainer co tydzien. Zapros znajomego (lub wiele znajomych) do udzialu w wyzwaniu. Konfiguracja jest bardzo prosta. Wszyscy gracze otrzymaja szczescie& ktore musza zniszczyc w celu uzyskania przedmiotow& ktore mozna wymienic na inne przedmioty& ktore mozna wykorzystac do walki na arenie PvP.Jak grac?Pierwsza rzecza jaka musisz zrobic& to nacisnac przycisk pod nazwa \"Zanim zaczniesz\". Dalej otrzymasz 30 szczesliwych blokow. Jesli z jakiegos powodu nie zadziala& wpisz nastepujace polecenie tekstowe na czacie: / give @a spawn_egg 30 12. Zaloz szczuple klocki& uzywajac szczesliwego bloku& a nastepnie zlikwiduj wszystkie przedmioty.",
+        "de": "Diese Karte ist inspiriert von der Minigame Lucky Blocks Challenge& die von SSundee und MrCrainer auf einer wochentlichen Basis gespielt wird. Laden Sie einen Freund (oder mehrere Freunde) ein& um an der Herausforderung teilzunehmen. Das Setup ist ziemlich einfach. Alle Spieler bekommen einige Glucksblocke& die sie zu zerstoren haben& um Gegenstande zu erhalten& die fur andere Gegenstande gehandelt werden konnen& die du fur den Kampf in einer PvP-Arena verwenden kannst.Spielanleitung?Das erste& was Sie tun mussen& ist& drucken Sie die Taste unter dem Zeichen namens \"Before You Start\". Als nachstes erhaltst du 30 Glucksblocke. Wenn es aus irgendeinem Grund nicht funktioniert& dann geben Sie den folgenden Text Befehl in den Chat: / geben @a spawn_egg 30 12. Spawn die glucklichen Blocke mit dem Glucksblock Spawn Eier und dann zerstoren sie und holen Sie alle Elemente.",
+        "it": "Questa mappa e ispirata al minigame Lucky Blocks Challenge che viene eseguito da SSundee e MrCrainer su base settimanale. Invita un amico (o piu amici) a partecipare alla sfida. L'installazione e piuttosto semplice. Tutti i giocatori riceveranno alcuni blocchi fortunati che devono distruggere per ottenere oggetti che possono essere scambiati per altri oggetti che puoi usare per combattere in una arena PvP.Come giocare?La prima cosa che dovrai fare e premere il pulsante sotto il segno \"Prima di iniziare\". Poi otterrai 30 blocchi fortunati. Se per qualche motivo non funziona& digitare il seguente comando di testo nella chat: / give @a spawn_egg 30 12. Spuntare i blocchi fortunati usando la fortunata blocco di uova spawn e poi distruggerle e raccogliere tutti gli oggetti.",
+        "fr": "Cette carte s'inspire du mini-jeu Lucky Blocks Challenge qui est joue chaque semaine par SSundee et MrCrainer. Invitez un ami (ou plusieurs amis) a participer au defi. La configuration est assez simple. Tous les joueurs recevront des blocs chanceux qu'ils doivent detruire afin d'obtenir des objets qui peuvent etre echanges contre d'autres objets que vous pouvez utiliser pour combattre dans une arene PvP.Comment jouer?La premiere chose que vous devrez faire& c'est d'appuyer sur le bouton sous le signe intitule «Avant de commencer». Ensuite& vous obtiendrez 30 blocs chanceux. Si cela ne fonctionne pas& tapez la commande de texte suivante dans le chat: / give @a spawn_egg 30 12. Mettez les blocs chanceux en utilisant le bloc chanceux pour engendrer des oeufs& puis detruisez-les et reprenez tous les elements."
+      }
+    }
+  ],
+  "main": [
+    {
+      "id": "0",
+      "desc": {
+        "en": "All-in-one lucky block megapack# maps, addons, skins!",
+        "ru": "Мегапак все-в-одном Лаки Блок# карты, моды и скины!",
+        "pt": "Tudo-em-um Megapack Bloco Sorte# Mapas, addons, Peles!",
+        "es": "Tout-en-un Megapack bloque chanceux# carta, addons, peaux!",
+        "pl": "Tudo-em-um Megapack bloco sorte# mapas, addons, peles!",
+        "de": "All-in-one lucky Block megapack# Karten, Addons, Haut!",
+        "it": "All-in-un fortunato blocco Megapack# mappe, addons, pelli!",
+        "fr": "Tout-en-un Megapack bloc chanceux# cartes, addons, peaux!"
+      }
+    },
+    {
+      "id": "1",
+      "desc": {
+        "en": "Destroy lucky blocks and find unusual items!",
+        "ru": "Уничтожай лаки блоки и находи необычные предметы",
+        "pt": "Destruir blocos e encontrar itens Sorte incomuns!",
+        "es": "Détruisez les bloques chanceux et trouver des objets insolites!",
+        "pl": "Destruir blocos sorte e encontrar itens incomuns!",
+        "de": "Zerstören Sie Glück Blöcke und ungewöhnliche Elemente finden!",
+        "it": "Distruggere i blocchi fortunati e trovare oggetti insoliti!",
+        "fr": "Détruisez les blocs chanceux et trouver des objets insolites!"
+      }
+    },
+    {
+      "id": "2",
+      "desc": {
+        "en": "You'll never know what is waiting you in next lucky block! ",
+        "ru": "Ты никогда не узнаешь, что ждет тебя в след. лаки блоке!",
+        "pt": "Você nunca vai sabre o que está esperando você pas próximo Bloco de Sorte!",
+        "es": "Vous ne jamais Saurez ce qui vous dans le asiste prochain chanceux bloque!",
+        "pl": "Você nunca vai saber o que está esperando você no próximo bloco de sorte!",
+        "de": "Sie wissen nie, was Sie in der nächsten Glück Block wartet!",
+        "it": "Non saprai mai che cosa si aspetta nel prossimo blocco fortunato!",
+        "fr": "Vous ne saurez jamais ce qui vous attend dans le prochain bloc chanceux!"
+      }
+    },
+    {
+      "id": "3",
+      "desc": {
+        "en": "Find unusual weapons!",
+        "ru": "Найди необычное оружие!",
+        "pt": "Encontrar armas incomuns!",
+        "es": "Favoritos Más Armes inhabituelles!",
+        "pl": "Encontrar armas incomuns!",
+        "de": "Finden ungewöhnliche Waffen!",
+        "it": "Trova le armi insolite!",
+        "fr": "Trouvez des armes inhabituelles!"
+      }
+    },
+    {
+      "id": "4",
+      "desc": {
+        "en": "Start download",
+        "ru": "Начать загрузку",
+        "pt": "Télécharger iniciar",
+        "es": "Le commencer Téléchargement",
+        "pl": "iniciar download",
+        "de": "Starte Download",
+        "it": "Inizia il download",
+        "fr": "Commencer Le Téléchargement"
+      }
+    }
+  ]
+}

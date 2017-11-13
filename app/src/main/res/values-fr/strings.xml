@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_main_text">Ouvrez chanceux Bloc MegaPack</string>
+    <string name="download_text">Commencer Le Téléchargement</string>
+    <string name="button_dialog_no"  >Arrière</string>
+    <string name="button_dialog_ok">L\'étape suivante</string>
+    <string name="install_ok"  >Installé avec succès!</string>
+    <string name="install_all">Tout est installé !!!</string>
+    <string name="button_dialog_all"  >Évaluez nous</string>
+    <string name="main_first_text">Tout-en-un Megapack bloc chanceux: cartes, addons, peaux!</string>
+    <string name="main_second_text"  >Détruisez les blocs chanceux et trouver des objets insolites!</string>
+    <string name="main_third_text"  >Vous ne saurez jamais ce qui vous attend dans le prochain bloc chanceux!</string>
+    <string name="main_four_text"  >Trouvez des armes inhabituelles!</string>
+    <string name="dialog_text_top"  >Installation ...</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_main_text">Öffnen Glücks Block-Megapack</string>
+    <string name="download_text">Starte Download</string>
+    <string name="button_dialog_no"  >Zurück</string>
+    <string name="button_dialog_ok">Nächster Schritt</string>
+    <string name="install_ok"  >Erfolgreich installiert!</string>
+    <string name="install_all">Alles ist installiert !!!</string>
+    <string name="button_dialog_all"  >Bewerten Sie uns</string>
+    <string name="main_first_text">All-in-one lucky Block megapack: Karten, Addons, Haut!</string>
+    <string name="main_second_text"  >Zerstören Sie Glück Blöcke und ungewöhnliche Elemente finden!</string>
+    <string name="main_third_text"  >Sie wissen nie, was Sie in der nächsten Glück Block wartet!</string>
+    <string name="main_four_text"  >Finden ungewöhnliche Waffen!</string>
+    <string name="dialog_text_top"  >Installieren ...</string>
+</resources>

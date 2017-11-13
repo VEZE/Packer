@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+    <string name="button_main_text">Открыть лаки блок пак</string>
+    <string name="download_text">Начать загрузку</string>
+    <string name="button_dialog_no"  >Назад</string>
+    <string name="button_dialog_ok">Следующий шаг</string>
+    <string name="install_ok"  >Установка прошла успешно!</string>
+    <string name="install_all">Все установлено!!!</string>
+    <string name="button_dialog_all"  >Оцените нас</string>
+    <string name="main_first_text">Мегапак все-в-одном Лаки Блок: карты, моды и скины!</string>
+    <string name="main_second_text"  >Уничтожай лаки блоки и находи необычные предметы</string>
+    <string name="main_third_text"  >Ты никогда не узнаешь, что ждет тебя в след. лаки блоке!</string>
+    <string name="main_four_text"  >Найди необычное оружие!</string>
+    <string name="dialog_text_top"  >Установка ...</string>
+</resources>

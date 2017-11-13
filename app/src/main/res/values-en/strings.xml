@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+    <string name="button_main_text">Open Lucky Block MegaPack</string>
+    <string name="download_text">Start download</string>
+    <string name="button_dialog_no"  >Back</string>
+    <string name="button_dialog_ok">Next step</string>
+    <string name="install_ok"  >Installed successfully!</string>
+    <string name="install_all">Everything is installed!!!</string>
+    <string name="button_dialog_all"  >Rate Us</string>
+    <string name="main_first_text">All-in-one lucky block megapack: maps, addons, skins!</string>
+    <string name="main_second_text"  >Destroy lucky blocks and find unusual items!</string>
+    <string name="main_third_text"  >"You'll never know what is waiting you in next lucky block! "</string>
+    <string name="main_four_text"  >Find unusual weapons!</string>
+    <string name="dialog_text_top"  >Installing...</string>
+</resources>

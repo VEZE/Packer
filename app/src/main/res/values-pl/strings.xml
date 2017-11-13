@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+    <string name="button_main_text">Abrir Sorte Bloco MegaPack</string>
+    <string name="download_text">iniciar download</string>
+    <string name="button_dialog_no"  >Costas</string>
+    <string name="button_dialog_ok">Próximo passo</string>
+    <string name="install_ok"  >Instalado com sucesso!</string>
+    <string name="install_all">Tudo está instalado !!!</string>
+    <string name="button_dialog_all"  >Nos avalie</string>
+    <string name="main_first_text">Tudo-em-um Megapack bloco sorte: mapas, addons, peles!</string>
+    <string name="main_second_text"  >Destruir blocos sorte e encontrar itens incomuns!</string>
+    <string name="main_third_text"  >Você nunca vai saber o que está esperando você no próximo bloco de sorte!</string>
+    <string name="main_four_text"  >Encontrar armas incomuns!</string>
+    <string name="dialog_text_top"  >Instalando ...</string>
+</resources>

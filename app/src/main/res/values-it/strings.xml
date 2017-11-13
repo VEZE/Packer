@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MegaPack Lucky Block</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_main_text">Aprire fortunato Block MegaPack</string>
+    <string name="download_text">Inizia il download</string>
+    <string name="button_dialog_no"  >Indietro</string>
+    <string name="button_dialog_ok">Passo successivo</string>
+    <string name="install_ok"  >Installato con successo!</string>
+    <string name="install_all">Tutto è installato !!!</string>
+    <string name="button_dialog_all"  >tasso degli Stati Uniti</string>
+    <string name="main_first_text">All-in-un fortunato blocco Megapack: mappe, addons, pelli!</string>
+    <string name="main_second_text"  >Distruggere i blocchi fortunati e trovare oggetti insoliti!</string>
+    <string name="main_third_text"  >Non saprai mai che cosa si aspetta nel prossimo blocco fortunato!</string>
+    <string name="main_four_text"  >Trova le armi insolite!</string>
+    <string name="dialog_text_top"  >Installazione ...</string>
+</resources>
